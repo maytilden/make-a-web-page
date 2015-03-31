@@ -1,0 +1,32 @@
+body {
+  padding: 20px 20px;
+  font-family: Geneva;
+  max-width: 1000px;
+  margin: 15px;
+  background-color:#DCDCDC;
+  font-size: 1em;
+}
+h1 {
+  text-align:center;
+  color: black;
+  background-color:white;
+}
+h2{
+  text-align:center;
+  color: black;
+  background-color:white;
+}
+h3{  text-align:center;
+  color: black;
+  background-color:white;}
+.header{
+  text-align:center;
+  background-color:white;
+}
+.concept-description{
+  background-color: white;
+  font-weight:lighter;
+}
+  background-color:white;
+  
+}
